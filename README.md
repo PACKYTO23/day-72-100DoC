@@ -5,3 +5,5 @@ Day 72 - Advanced - Data Exploration with Pandas - College Major v.s. Your Salar
 
 Specific (and short) notes and titles written in main.py.
   Unfinished practice (26/08/2024); update tomorrow.
+    Finished practice (27/08/2024); updated.
+    
